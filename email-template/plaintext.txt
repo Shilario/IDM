@@ -1,0 +1,5 @@
+Hola equipo de IDM Painting and Remodeling. Has recibido un nuevo correo de parte de:
+
+Nombre del cliente: {{ clientFullName }}
+Correo del cliente: {{ clientEmail }}
+Mensaje: {{ clientMessage }}

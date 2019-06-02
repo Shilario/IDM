@@ -1,0 +1,10 @@
+{
+  "Template": {
+    "TemplateName": "IDMTemplate",
+    "SubjectPart": "{{subject}}",
+    "HtmlPart": "<p style='margin-bottom: 0; padding: 0; color: #111; font-family: Georgia, serif; font-size: 18px; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding-top: 15px; text-align: left; padding-bottom: 20px;'>Hola equipo de IDM Painting and Remodeling. Has recibido un nuevo correo de parte de:</p><p style='margin-bottom: 0; padding: 0; color: #111; font-family: Georgia, serif; font-size: 18px; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding-top: 15px; text-align: left; padding-bottom: 20px;'>Nombre del cliente: <strong>{{ clientFullName }}</strong></p><p style='margin-bottom: 0; padding: 0; color: #111; font-family: Georgia, serif; font-size: 18px; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding-top: 15px; text-align: left; padding-bottom: 20px;'>Correo del cliente: <strong>{{ clientEmail }}</strong></p><p style='margin-bottom: 0; padding: 0; color: #111; font-family: Georgia, serif; font-size: 18px; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding-top: 15px; text-align: left; padding-bottom: 20px;'>Mensaje: <strong>{{ clientMessage }}</strong></p>",
+    "TextPart": "Hola equipo de IDM Painting and Remodeling. Has recibido un nuevo correo de parte de: Nombre del cliente: {{ clientFullName }} Correo del cliente: {{ clientEmail }} Mensaje: {{ clientMessage }}"
+  }
+}
+
+'{\"clientFullName\": \"Stephannie\", \"clientEmail\": \"hilariostephannie@gmail.com\", \"clientMessage\": \"safdgbjf kmsa asf\", \"subject\":\"juanita\"}'
