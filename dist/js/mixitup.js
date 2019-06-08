@@ -1,0 +1,1 @@
+$(function(){"use strict";(function(){$("#portfoliolist").mixItUp({selectors:{target:".portfolio",filter:".filter"},load:{filter:".filter1, .filter2, .filter3, .filter4"}})})()});
